@@ -2,6 +2,9 @@
 [Resume](https://registry.jsonresume.org/trevsuth?theme=kendall)
 
 ## Projects
+### Local Agent
+A full agent development stack with n8n, ollama, and a FastMCP server at its core.  Also contains scripts to generate a sample sqlite database, as well as MCP tools to perfors a few CRUD operations on the database.
+Also includes a full observability stack comprised of loki, tempo, prometheius, and grafana
 
 ### Day Planner
 https://github.com/trevsuth/day_planner
